@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="webapps/docs/appdev/sample/src"/>
+	<classpathentry kind="src" path="webapps/examples/jsp/plugin/applet"/>
+	<classpathentry kind="src" path="webapps/examples/WEB-INF/classes"/>
+	<classpathentry kind="lib" path="webapps/examples/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="webapps/examples/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="lib/apache-ant-1.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.javax.xml.rpc-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jdt.core_3.7.0.v_B61.jar"/>
+	<classpathentry kind="lib" path="lib/wsdl4j-1.5.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

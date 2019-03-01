@@ -1,0 +1,24 @@
+exclude: 
+- /bin/.*
+- /conf/.*
+- /java/.*
+- /lib/.*
+- /res/.*
+- /test/.*
+- /webapps/ROOT/.*
+- /webapps/docs/META-INF/.*
+- /webapps/docs/WEB-INF/.*
+- /webapps/docs/api/.*
+- /webapps/docs/appdev/sample/docs/.*
+- /webapps/docs/appdev/sample/web/.*
+- /webapps/docs/architecture/.*
+- /webapps/docs/config/.*
+- /webapps/docs/elapi/.*
+- /webapps/docs/funcspecs/.*
+- /webapps/docs/images/.*
+- /webapps/docs/jspapi/.*
+- /webapps/docs/servletapi/.*
+- /webapps/docs/tribes/.*
+- /webapps/examples/.*
+- /webapps/host-manager/.*
+- /webapps/manager/.*
